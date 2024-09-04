@@ -1,4 +1,4 @@
-# Kenya Wallpapers
+# 🇰🇪 Kenya Wallpapers
 
 A collection of wildlife photos taken on a trip to Kenya in 2013, resized for use as desktop wallpapers.
 
