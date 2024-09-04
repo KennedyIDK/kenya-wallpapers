@@ -129,20 +129,20 @@ https://www.sheldrickwildlifetrust.org/donate/
 
 ### 19. Ekundu (red)
 ![](webp/Ekundu.webp)
-9:16: [FHD](9x16/1080x1920/FHD_Ekundu.jpg) [QHD](9x16/1440x2560/QHD_Ekundu.jpg) [4K](9x16/2160x3840/4K_Ekundu.jpg)
+9:16: [FHD](9x16/1080x1920/vFHD_Ekundu.jpg) [QHD](9x16/1440x2560/vQHD_Ekundu.jpg) [4K](9x16/2160x3840/v4K_Ekundu.jpg)
 
 ### 20. Embamba (narrow, slim, or slender)
 ![](webp/Embamba.webp)
-9:16: [FHD](9x16/1080x1920/FHD_Embamba.jpg) [QHD](9x16/1440x2560/QHD_Embamba.jpg) [4K](9x16/2160x3840/4K_Embamba.jpg)
+9:16: [FHD](9x16/1080x1920/vFHD_Embamba.jpg) [QHD](9x16/1440x2560/vQHD_Embamba.jpg) [4K](9x16/2160x3840/v4K_Embamba.jpg)
 
 ### 21. Endapo (in case)
 ![](webp/Endapo.webp)
-9:16: [FHD](9x16/1080x1920/FHD_Endapo.jpg) [QHD](9x16/1440x2560/QHD_Endapo.jpg) [4K](9x16/2160x3840/4K_Endapo.jpg)
+9:16: [FHD](9x16/1080x1920/vFHD_Endapo.jpg) [QHD](9x16/1440x2560/vQHD_Endapo.jpg) [4K](9x16/2160x3840/v4K_Endapo.jpg)
 
 ### 22. Endalevu (sustainable)
 ![](webp/Endalevu.webp)
-9:16: [FHD](9x16/1080x1920/FHD_Endalevu.jpg) [QHD](9x16/1440x2560/QHD_Endalevu.jpg) [4K](9x16/2160x3840/4K_Endalevu.jpg)
+9:16: [FHD](9x16/1080x1920/vFHD_Endalevu.jpg) [QHD](9x16/1440x2560/vQHD_Endalevu.jpg) [4K](9x16/2160x3840/v4K_Endalevu.jpg)
 
 ### 23. Mwalimu (teacher)
 ![](webp/Mwalimu.webp)
-9:16: [FHD](9x16/1080x1920/FHD_Mwalimu.jpg) [QHD](9x16/1440x2560/QHD_Mwalimu.jpg) [4K](9x16/2160x3840/4K_Mwalimu.jpg)
+9:16: [FHD](9x16/1080x1920/vFHD_Mwalimu.jpg) [QHD](9x16/1440x2560/vQHD_Mwalimu.jpg) [4K](9x16/2160x3840/v4K_Mwalimu.jpg)
