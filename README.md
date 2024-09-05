@@ -2,9 +2,7 @@
 
 A collection of wildlife photos taken on a trip to Kenya in 2013, resized for use as desktop wallpapers.
 
-Filenames are Swahili translations coutesy of [glosbe.com](https://glosbe.com/en/sw/). 
-
-Words were chosen based on the subject of the image, "E" for elephants, "M" for monkeys, etc. 
+Filenames are Swahili translations coutesy of [glosbe.com](https://glosbe.com/en/sw/). Words were chosen based on the subject of the image, "E" for elephants, "M" for monkeys, etc. 
 
 If you enjoy these images, consider donating to the Sheldrick Wildlife Trust, a charity that helps protect elephants and other wildlife in Kenya. 
 
